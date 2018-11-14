@@ -10,6 +10,8 @@
 using namespace std;
 
 int main() {
-	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
-	return 0;
+	cout << "New commit";
+        int a = 3+3;
+	int b = 2+6;
+	int c = 89;
 }
